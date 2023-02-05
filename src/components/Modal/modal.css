@@ -1,0 +1,29 @@
+.overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-inner {
+  position: relative;
+  padding: 32px;
+  width: 50%;
+  height: 50%;
+  background-color: #fff;
+}
+
+.open {
+  display: flex;
+}
+
+.close-modal {
+  position: absolute;
+  top: 0;
+  right: 0;
+}

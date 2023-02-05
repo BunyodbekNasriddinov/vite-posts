@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "name": "Bu post",
+      "desc": "lorem ipsum domit",
+      "id": 1
+    },
+    {
+      "name": "Bu ikkinchi post",
+      "desc": "Bu esa descripton bla bla bla",
+      "id": 2
+    },
+    {
+      "name": "Arch",
+      "desc": "linux",
+      "id": 4
+    },
+    {
+      "name": "Manjaro",
+      "desc": "linux",
+      "id": 5
+    },
+    {
+      "name": "Endeveaour OS",
+      "desc": "linux",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "bunyod@gmail.com",
+      "password": "$2a$10$zpd0PY4C8Mi2/K11L/5j5e8pdXsnz5v4PTfKWcvSTERWufkxhvs3y",
+      "first_name": "bunyod",
+      "last_name": "nasriddinov",
+      "id": 1
+    },
+    {
+      "email": "arch@gmail.com",
+      "password": "$2a$10$DOUdZQca19rbS4by1Rc7EOK1kf1wDp0EfNvDl4HMh1JNwSQnnpBC.",
+      "first_name": "arch",
+      "last_name": "linux",
+      "id": 2
+    },
+    {
+      "email": "manjaro@gmail.com",
+      "password": "$2a$10$aq692SVmB/46OBDi142Pf.9rsKWZLMmY6/tmnekxi7A4U2KVsOHq2",
+      "first_name": "manjaro",
+      "last_name": "linux",
+      "id": 3
+    }
+  ]
+}
