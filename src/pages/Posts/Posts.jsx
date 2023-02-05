@@ -21,7 +21,7 @@ export const Posts = () => {
         }
       })
       .catch((err) => console.log(err));
-  }, [posts]);
+  }, []);
 
   const handleSubmit = (evt) => {
     evt.preventDefault();
